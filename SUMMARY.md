@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](Introduction.md)
-* [Blynk 2.0 Business Story](blynk-2.0-business-story.md)
 
 ## Platform overview
 
@@ -15,14 +14,9 @@
 
 ## Tutorials
 
+* [Blynk 2.0 Business Story](tutorials/blynk-2.0-business-story.md)
 * [Quick Start](tutorials/quick-start.md)
 * [Getting Started](tutorials/getting-started/README.md)
-  * [Welcome screen](tutorials/getting-started/welcome-screen/README.md)
-    * [Log in](tutorials/getting-started/welcome-screen/log-in.md)
-    * [Sign up](tutorials/getting-started/welcome-screen/sign-up/README.md)
-      * [Partner Sign up](tutorials/getting-started/welcome-screen/sign-up/partner-sign-up.md)
-      * [Client Sign up](tutorials/getting-started/welcome-screen/sign-up/client-sign-up.md)
-    * [Restore password](tutorials/getting-started/welcome-screen/restore-password.md)
   * [Common Navigation and Actions Reference](tutorials/getting-started/common-navigation-and-actions-reference.md)
   * [User Profile Management](tutorials/getting-started/user-profile-management.md)
 * [Building a Commercial Product A-Z](tutorials/building-a-commercial-product-a-z.md)
@@ -38,7 +32,9 @@
     * [Locations](web-dashboard/for-developers/search/locations.md)
     * [Organizations View](web-dashboard/for-developers/search/organizations/README.md)
       * [Transfer Organization](web-dashboard/for-developers/search/organizations/transfer-organization.md)
-    * [Users](web-dashboard/for-developers/search/users.md)
+    * [Users](web-dashboard/for-developers/search/users/README.md)
+      * [User View](web-dashboard/for-developers/search/users/user-view.md)
+      * [Users List](web-dashboard/for-developers/search/users/users-list.md)
   * [Analytics](web-dashboard/for-developers/analytics.md)
   * [Devices](web-dashboard/for-developers/devices/README.md)
     * [Devices List](web-dashboard/for-developers/devices/devices-list/README.md)
@@ -121,6 +117,7 @@
 ## Troubleshooting
 
 * [Untitled](troubleshooting/untitled.md)
+* [WiFi provisioning](troubleshooting/wifi-provisioning.md)
 
 ---
 
