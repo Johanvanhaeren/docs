@@ -29,7 +29,7 @@
       * [Device view](web-dashboard/for-developers/search/devices-1/device-view.md)
       * [Device Owner View](web-dashboard/for-developers/search/devices-1/device-owner-view.md)
       * [Device Organization View](web-dashboard/for-developers/search/devices-1/device-organization-view.md)
-    * [Locations](web-dashboard/for-developers/search/locations.md)
+    * [Locations](web-dashboard/for-developers/settings/organization-settings/locations.md)
     * [Organizations View](web-dashboard/for-developers/search/organizations/README.md)
       * [Transfer Organization](web-dashboard/for-developers/search/organizations/transfer-organization.md)
     * [Users](web-dashboard/for-developers/search/users/README.md)

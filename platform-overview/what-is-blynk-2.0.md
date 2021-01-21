@@ -1,7 +1,7 @@
 # What is Blynk
 
 {% hint style="warning" %}
-**This documentation covers only the latest generation of Blynk IoT Platform \(2.0\).** 
+**This documentation covers only the latest generation of Blynk IoT Platform \(2.0\).**
 
 Version 1.0 is no longer supported and developed. Read more about it here **&lt;&lt;&lt;LINK&gt;&gt;&gt;**
 {% endhint %}
