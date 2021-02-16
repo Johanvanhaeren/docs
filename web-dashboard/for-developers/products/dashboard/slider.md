@@ -1,13 +1,14 @@
+---
+description: >-
+  Slider widget allows to send values to Virtual Pin of the selected Device.
+  Usage examples: volume, brightness, RPM, flap position control, etc.
+---
+
 # Slider
 
-```text
-Slider widget allows to send values to Virtual Pin of the selected Device.  
-Usage examples: volume, brightness, RPM, flap position control, etc.  
-```
+![Add Slider widget and click Setup pictogram](../../../../.gitbook/assets/slider_create.gif)
 
-SETUP:
-
-* Name the Slider widget by editing **Slider** inside top field;
+* Name the Slider widget by editing **Slider** inside top field; 
 * **Choose Source** – select Datastream;
   * **Min** and **Max** – will be automatically taken from selected Datastream default value; 
     * **Send values on release only \(optimal\)** – we recommend to use this option to avoid misclick-like issues and decrease traffic to/from the Device \(critical for GSM connection\);  
@@ -18,4 +19,8 @@ SETUP:
 * **Value**  
   * **Value position** – left or right side to the Slider;
   * **Suffix** – type the unit you want to be viewed near the value.
+
+![Slider widget setup demo](../../../../.gitbook/assets/slider_setup.gif)
+
+
 
