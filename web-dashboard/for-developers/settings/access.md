@@ -30,7 +30,7 @@ Blynk has 3 roles that can have different permissions sets:
 
 #### Permissions Control
 
-* View rolls and permissions
+* View roles and permissions
 * Create new roles
 * Edit roles
 * Delete roles
